@@ -10,12 +10,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Rest/ViewController.m"
-            timestampString = "450746311.199913"
+            timestampString = "450819024.458298"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
-            landmarkName = "-updateContact"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-getConnection"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Rest/ViewController.m"
-            timestampString = "450746496.784393"
+            timestampString = "450819051.355267"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130"
-            landmarkName = "-viewDidLoad"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-getConnection"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

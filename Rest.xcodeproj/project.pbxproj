@@ -43,7 +43,7 @@
 		E41080461AD59CF7008F8EC4 /* RestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestTests.m; sourceTree = "<group>"; };
 		E41080501AD5A11C008F8EC4 /* XMLReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLReader.h; sourceTree = "<group>"; };
 		E41080511AD5A11D008F8EC4 /* XMLReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLReader.m; sourceTree = "<group>"; };
-		E4867B741ADDA14F009A31F3 /* BSSIRootAuthority.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = BSSIRootAuthority.cer; path = ../../BSSIRootAuthority.cer; sourceTree = "<group>"; };
+		E4BAC1D01ADDF188008D16F3 /* BSSIRootAuthority.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = BSSIRootAuthority.cer; path = ../../../BSSIRootAuthority.cer; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +85,7 @@
 		E41080291AD59CF5008F8EC4 /* Rest */ = {
 			isa = PBXGroup;
 			children = (
+				E4BAC1D01ADDF188008D16F3 /* BSSIRootAuthority.cer */,
 				E410802E1AD59CF6008F8EC4 /* AppDelegate.h */,
 				E410802F1AD59CF6008F8EC4 /* AppDelegate.m */,
 				E41080311AD59CF7008F8EC4 /* ViewController.h */,
@@ -120,7 +121,6 @@
 		E41080441AD59CF7008F8EC4 /* SupportingFiles */ = {
 			isa = PBXGroup;
 			children = (
-				E4867B741ADDA14F009A31F3 /* BSSIRootAuthority.cer */,
 				E41080451AD59CF7008F8EC4 /* Info.plist */,
 			);
 			name = SupportingFiles;
